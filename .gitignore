@@ -1,6 +1,9 @@
 # IntelliJ
 .idea
 
+# Build
+build
+
 # Prerequisites
 *.d
 
